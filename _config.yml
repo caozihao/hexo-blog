@@ -78,6 +78,7 @@ theme: one
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  # git@github_caozihao:caozihao/hexo-blog.git
   repository: ssh://git@github.com/caozihao/caozihao.github.io.git
   branch: master
 
