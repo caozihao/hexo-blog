@@ -78,8 +78,8 @@ theme: one
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  # git@github_caozihao:caozihao/hexo-blog.git
-  repository: ssh://git@github.com/caozihao/caozihao.github.io.git
+  # git@[Host] Host是.ssh目录下config文件里的Host，默认是github.com
+  repository: ssh://git@github_caozihao/caozihao/caozihao.github.io.git
   branch: master
 
 live2d:
