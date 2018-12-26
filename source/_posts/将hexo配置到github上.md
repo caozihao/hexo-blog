@@ -5,7 +5,7 @@ updated:
 tags:
 - Hexo
 - 配置
-thumbnail: /images/将hexo配置到github上/bg.jpg
+thumbnail: /images/将hexo配置到github上/bg.png
 ---
 >  可以参考[这篇文章](https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html)
 

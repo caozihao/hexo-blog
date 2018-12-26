@@ -6,9 +6,7 @@ categories:
 tags:
 - Hexo
 - 介绍
-thumbnail: /images/HelloHexo/index_bottom.jpg
-primarycolor: cyan
-accentcolor: blue
+thumbnail: /images/将hexo配置到github上/bg.png
 ---
 # 自己用Hexo搭建一个博客！
 >  您需要掌握以下的技术 :

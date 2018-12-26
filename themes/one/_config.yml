@@ -33,7 +33,7 @@ comment:
 #   duoshuo:
 #       shortName: "xxx"
     disqus:
-        shortName: "lainplain"
+        shortName: "lainplan"
 
 #侧边抽屉
 Drawer:
@@ -91,7 +91,7 @@ Drawer:
           #站外链接
           type: link
           #链接
-          href: mailto:cneyhn@email.com
+          # href: mailto:cneyhn@email.com
           #图标
           icon: mail_outline
         -
@@ -151,7 +151,7 @@ homeToolBar:
 footer:
   # 底部中间(移动端有所不同)  多个随机
   -
-    "Copyright © 2017 - 2017 caozihao"
+    "Copyright © 2017 - 2018 caozihao"
   # 底部右间(移动端有所不同)  多个随机
   -
     -
